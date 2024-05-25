@@ -8,6 +8,7 @@ const Body = () => {
       <p>Body</p>
       <p>Body1</p>
       <p>Body2</p>
+      <p>Body3</p>
       <Header />
       <Outlet />
     </div>
