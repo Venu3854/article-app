@@ -47,6 +47,7 @@ const DetailedArticle = () => {
     <div>
       {!loading && (
         <div className="h-screen  text-justify py-16 px-10 ">
+          <h1>Detailed Article</h1>
           <h1 className="text-3xl font-bold mb-4 text-slate-50">
             {article?.title}
           </h1>
